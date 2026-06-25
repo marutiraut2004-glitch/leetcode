@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/marutiraut2004-glitch/leetcode/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/marutiraut2004-glitch/leetcode/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/marutiraut2004-glitch/leetcode/tree/master/0049-group-anagrams) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -18,8 +19,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/marutiraut2004-glitch/leetcode/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/marutiraut2004-glitch/leetcode/tree/master/0049-group-anagrams) |
 ## Math
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/marutiraut2004-glitch/leetcode/tree/master/0013-roman-to-integer) |
+## Array
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/marutiraut2004-glitch/leetcode/tree/master/0049-group-anagrams) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/marutiraut2004-glitch/leetcode/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
