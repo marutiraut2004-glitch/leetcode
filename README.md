@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/marutiraut2004-glitch/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/marutiraut2004-glitch/leetcode/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/marutiraut2004-glitch/leetcode/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/marutiraut2004-glitch/leetcode/tree/master/0043-multiply-strings) |
@@ -11,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/marutiraut2004-glitch/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/marutiraut2004-glitch/leetcode/tree/master/0022-generate-parentheses) |
 ## Backtracking
 |  |
@@ -38,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/marutiraut2004-glitch/leetcode/tree/master/0043-multiply-strings) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/marutiraut2004-glitch/leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
