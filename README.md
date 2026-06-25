@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/marutiraut2004-glitch/leetcode/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/marutiraut2004-glitch/leetcode/tree/master/0022-generate-parentheses) |
+| [0043-multiply-strings](https://github.com/marutiraut2004-glitch/leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/marutiraut2004-glitch/leetcode/tree/master/0049-group-anagrams) |
 ## Dynamic Programming
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/marutiraut2004-glitch/leetcode/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/marutiraut2004-glitch/leetcode/tree/master/0043-multiply-strings) |
 ## Array
 |  |
 | ------- |
@@ -32,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/marutiraut2004-glitch/leetcode/tree/master/0049-group-anagrams) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/marutiraut2004-glitch/leetcode/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
