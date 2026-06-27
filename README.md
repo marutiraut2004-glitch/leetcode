@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/marutiraut2004-glitch/leetcode/tree/master/0049-group-anagrams) |
+| [0136-single-number](https://github.com/marutiraut2004-glitch/leetcode/tree/master/0136-single-number) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/marutiraut2004-glitch/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/marutiraut2004-glitch/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/marutiraut2004-glitch/leetcode/tree/master/0136-single-number) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/marutiraut2004-glitch/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Counting
 |  |
