@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/marutiraut2004-glitch/leetcode/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/marutiraut2004-glitch/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/marutiraut2004-glitch/leetcode/tree/master/0049-group-anagrams) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/marutiraut2004-glitch/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Math
 |  |
 | ------- |
@@ -37,11 +38,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/marutiraut2004-glitch/leetcode/tree/master/0049-group-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/marutiraut2004-glitch/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/marutiraut2004-glitch/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/marutiraut2004-glitch/leetcode/tree/master/0049-group-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/marutiraut2004-glitch/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/marutiraut2004-glitch/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Simulation
 |  |
 | ------- |
@@ -63,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/marutiraut2004-glitch/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/marutiraut2004-glitch/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
