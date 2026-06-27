@@ -36,10 +36,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/marutiraut2004-glitch/leetcode/tree/master/0049-group-anagrams) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/marutiraut2004-glitch/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/marutiraut2004-glitch/leetcode/tree/master/0049-group-anagrams) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/marutiraut2004-glitch/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Simulation
 |  |
 | ------- |
@@ -53,4 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/marutiraut2004-glitch/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/marutiraut2004-glitch/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/marutiraut2004-glitch/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+## Counting
+|  |
+| ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/marutiraut2004-glitch/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 <!---LeetCode Topics End-->
